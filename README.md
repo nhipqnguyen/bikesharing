@@ -6,7 +6,7 @@ Our assignment is to use Tableau to create effective visualizations from the Cit
 - Data Source: 201908-citibike-tripdata.csv, converted_citibike.csv.
 
 ## Results
-- Below are the visulizations and their analyses:
+- Below are the visualizations and their analyses:
 
   ![Checkout Times for Users](https://github.com/nhipqnguyen/bikesharing/blob/main/analysis/Checkout_Times_for_Users.png)
 
