@@ -1,6 +1,6 @@
 # Bike-Sharing
 # Project Overview
-Our assignment is to use Tableau to create effective visualizations from the NYC Citi Bike data for a bike trip analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+In this project, I used Tableau to create effective visualizations from the NYC Citi Bike data for a bike trip analysis to convince investors that a bike-sharing program in Des Moines was a solid business proposal.
 
 ## Resources
 - Data Source: 201908-citibike-tripdata.csv, converted_citibike.csv.
